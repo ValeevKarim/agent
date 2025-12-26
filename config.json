@@ -1,0 +1,10 @@
+{
+  "repo_path": "C:\\agent",
+  "model_name": "qwen2.5-coder:3b",
+  "chunk_size": 800,
+  "chunk_overlap": 100,
+  "top_k": 5,
+  "allow_modifications": true,
+  "require_confirmation": true,
+  "backup_dir": "./backups"
+}
